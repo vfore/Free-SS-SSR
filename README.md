@@ -14,14 +14,16 @@
 
 ### :deciduous_tree: [SSR账号](https://www.youneed.win/free-ssr)
 
+### :palm_tree: [V2Ray账号](https://www.youneed.win/free-v2ray)
+
 所有账号均来自互联网，非盈利目的，仅供大家交流学习使用，请勿用于非法用途:sos:。
 
 服务器有点垃圾，偶尔不能访问时，可以提issue或发邮件:email:。
 
 ------
-**2019.07.25更新**
+**2019.09.23更新**
 
-主域名[www.youneed.win](https://www.youneed.win)被和谐，启用了临时域名[flywind.ml](https://flywind.ml)。
+主域名[www.youneed.win](https://www.youneed.win)被和谐。
 
 ### :heavy_check_mark: 继续访问主域名[www.youneed.win](https://www.youneed.win)方法
 
@@ -31,6 +33,30 @@
 > * 进入命令行(win+R 输入cmd回车)，执行：ipconfig /flushdns
 > * 重新刷新页面即可,如失效请还原host并用代理访问
 
-（也可以用DNS-Over-HTTPS加ESNI。[Firefox浏览器设置方法](https://blog.mozilla.org/security/2018/10/18/encrypted-sni-comes-to-firefox-nightly/)）
+最终如图：
+
+![host文件](https://raw.githubusercontent.com/dxxzst/Free-SS-SSR/master/20190823174906.png)
+
+也可以用火狐浏览器并启用DNS-Over-HTTPS。[设置方法参考](https://www.cccitu.com/3913.html)
+
+或者Android Pie及以上版本启用DNS-Over-TLS。[设置方法参考](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/android/)
 
 [若本项目对您有所帮助，欢迎Star](https://github.com/dxxzst/Free-SS-SSR)
+
+------
+**2020.06.14更新**
+如果以上host修改后，仍然访问较慢或者无访问，可以在以下网段自选IP：
+
+通移动推荐节点：
+
+104.23.240.0-104.23.243.254
+
+电信推荐节点：
+
+162.159.208.4-162.159.208.103
+
+162.159.209.4-162.159.209.103
+
+162.159.210.4-162.159.210.103
+
+162.159.211.4-162.159.211.103
